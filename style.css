@@ -13,6 +13,7 @@ img{
 .box1{
     text-align:center;
     background-color:rgba(255, 255, 255, 0.8);
+    border: solid rgba(122,135,111);
     padding:35px;
     margin-left:35px;
     margin-right:35px;
@@ -29,6 +30,7 @@ img{
 
 .box{
     background-color:rgba(255, 255, 255, 0.8);
+    border: solid rgba(122,135,111);
     padding:15px;
     margin-left:35px;
     margin-right:35px;
